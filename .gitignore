@@ -1,0 +1,6 @@
+# Internal tools for testing
+# .vale.ini
+# .tool-versions
+
+# Misc
+.DS_Store
